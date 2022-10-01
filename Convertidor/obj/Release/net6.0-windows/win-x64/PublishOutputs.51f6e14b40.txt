@@ -1,0 +1,7 @@
+C:\Users\trini\Desktop\PruebaXMLEjecutable\Convertidor.pdb
+C:\Users\trini\Desktop\PruebaXMLEjecutable\D3DCompiler_47_cor3.dll
+C:\Users\trini\Desktop\PruebaXMLEjecutable\PenImc_cor3.dll
+C:\Users\trini\Desktop\PruebaXMLEjecutable\PresentationNative_cor3.dll
+C:\Users\trini\Desktop\PruebaXMLEjecutable\vcruntime140_cor3.dll
+C:\Users\trini\Desktop\PruebaXMLEjecutable\wpfgfx_cor3.dll
+C:\Users\trini\Desktop\PruebaXMLEjecutable\Convertidor.exe

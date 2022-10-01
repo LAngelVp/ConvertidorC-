@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2h0LtTbeyLYzBIRfLeMBbkQn6AVAGTHimqUa8wd/zESTM82GA/GfWzF5tdLqWEcBYG75xhNkIfovGYazAtlStw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trini\\source\\repos\\Convertidor\\Convertidor\\Convertidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trini\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\trini\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\trini\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\trini\\.nuget\\packages\\spreadsheetlight\\3.5.0\\spreadsheetlight.3.5.0.nupkg.sha512",
+    "C:\\Users\\trini\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\trini\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

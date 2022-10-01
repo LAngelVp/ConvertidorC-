@@ -1,0 +1,7 @@
+C:\Users\trini\Desktop\Convertidor.exe
+C:\Users\trini\Desktop\Convertidor.dll
+C:\Users\trini\Desktop\Convertidor.deps.json
+C:\Users\trini\Desktop\Convertidor.runtimeconfig.json
+C:\Users\trini\Desktop\Convertidor.pdb
+C:\Users\trini\Desktop\DocumentFormat.OpenXml.dll
+C:\Users\trini\Desktop\SpreadsheetLight.dll

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="SCI" Folio="14283" Fecha="2022-08-10T11:20:08" Sello="M6ZUA3Wo5hm7jfb7+zok99G2h47J7JqFauUET6OedvtReImnw4nC+2RpTGWbM3m8VNkiFmD+DlhWTMc9/0kooEVZs6JEUGiP3sg3q5nX7tPdlf2XXtrnFIcjSxLGtO/iXu/LEpXr55cFeKGtRqsU0ZhmmlvHpFCnjgWhUgBGfZx4fMK96txcIGifkiNB+WifuNW4Ct4kzK1TY7tiQq1XT4BrvQtrI29gEBBytIeXjp4gbiR2euBg+PV4+w/MRhVlN7v35L2ktb/SOlNKk/pXZOBK09esKWKQf/kzIDier0cyJnnEjVAXft8h6lbMe8iL3j5/OD5CKNaRlvue7qfg+w==" FormaPago="99" NoCertificado="00001000000510196882" Certificado="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" CondicionesDePago="Crédito" SubTotal="33149.57" Moneda="MXN" TipoCambio="1" Total="38453.50" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="42830">
+  <cfdi:Emisor Rfc="KSU950217GI6" Nombre="KENWORTH DEL SUR" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="KES940817F20" Nombre="KENWORTH DEL ESTE" DomicilioFiscalReceptor="94954" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="R-04" Cantidad="1" ClaveUnidad="E48" Unidad="UNIDAD DE SERVICIO" Descripcion="SRT USO DE INSITE" ValorUnitario="240.00" Importe="240.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="240" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="38.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101720" NoIdentificacion="4034289RXCUM" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ACTUADOR" ValorUnitario="29815.57" Importe="29815.57" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="29815.57" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4770.49" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="O-9" Cantidad="1" ClaveUnidad="E48" Unidad="UNIDAD DE SERVICIO" Descripcion="SERVICIO CARRETERO ( BANDERAZO DIURNO )" ValorUnitario="1200.00" Importe="1200.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1200" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="192.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="R-02" Cantidad="1" ClaveUnidad="E48" Unidad="UNIDAD DE SERVICIO" Descripcion="SRT REEMPLAZO DE ACTUDOR VGT" ValorUnitario="1040.00" Importe="1040.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1040" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="166.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="002" Cantidad="1" ClaveUnidad="H87" Unidad="No Aplica" Descripcion="GASTOS DE ASISTENCIA IAVE" ValorUnitario="190.00" Importe="190.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="190" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.40" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="O-50586" Cantidad="1" ClaveUnidad="E48" Unidad="UNIDAD DE SERVICIO" Descripcion="KILOMETROS EXTRAS" ValorUnitario="480.00" Importe="480.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="480" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="76.80" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="O-27" Cantidad="1" ClaveUnidad="E48" Unidad="UNIDAD DE SERVICIO" Descripcion="HORAS DE MANEJO ADICIONALES" ValorUnitario="184.00" Importe="184.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="184" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.44" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="5303.93">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="33149.57" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5303.93" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="4CD66C21-18C8-11ED-ADEA-E59C66BCFF67" FechaTimbrado="2022-08-10T11:20:11" SelloCFD="M6ZUA3Wo5hm7jfb7+zok99G2h47J7JqFauUET6OedvtReImnw4nC+2RpTGWbM3m8VNkiFmD+DlhWTMc9/0kooEVZs6JEUGiP3sg3q5nX7tPdlf2XXtrnFIcjSxLGtO/iXu/LEpXr55cFeKGtRqsU0ZhmmlvHpFCnjgWhUgBGfZx4fMK96txcIGifkiNB+WifuNW4Ct4kzK1TY7tiQq1XT4BrvQtrI29gEBBytIeXjp4gbiR2euBg+PV4+w/MRhVlN7v35L2ktb/SOlNKk/pXZOBK09esKWKQf/kzIDier0cyJnnEjVAXft8h6lbMe8iL3j5/OD5CKNaRlvue7qfg+w==" NoCertificadoSAT="00001000000505600468" SelloSAT="UyJdotkzaVNlE57ifBcqEyQSXQQQtNmYX6MVgCdr8EITAiYqFXFM6H0BShX9OVDCa+mXJurtYJXpKhcaDPyBe9POhHyx2SpkiiOVK11z/nGe8nkpeQuwJ8yi2jPKK1uecmVprvxTGZ5GCWSrnivsgbZQqQ98mOQjUv91yl35qSSr3+IL9Md/oz1O2Sl3DhPdLvNCY61yCF3nv/z3YyGdwXIpllndxjMe+H4I2Gg5LM3idqGDWCqjsctkKCDZBxDaqOdH333hWz3st8FrLIEuInUb5vGvhO33n6+Xap89CEpv5+MyKXp48HB2sB7ZlvzThrc8rLfYgLO3XJBVEAjDjQ==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>

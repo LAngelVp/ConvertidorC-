@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="DB" Folio="25790" Fecha="2022-08-05T17:50:52" Sello="c3BhLlHB8BXph3rvOp42Fr6Afegfwdkn9zX9FSs5M4lmEeP8aJ9sRASXBG0Fqyqzuk3KUa9PzNxprJhSTt+k0c/HAfSOpz4X6OCuXJ7PeBV7SXBpfjIIQpAt6vLP9fkDCWTpP9pcKaBQcosBvysHAq/GXifBeWyQqfLkMBINybJ+be9R+obdAgxGOLIclwwOvdrNesf8K4/U2VQKhUa4FHl/7U1MJnz/9ZcYp9edy4YQ/0u4pc6BD83ClXV/RzG4ZTK4PM86YHa0v8coBnQobU7juiZBDMmtcytK/f8neiarFcUAqzn2uVPzFJnVxr+FiQj1Qrvc6T/6HljbMf9sMw==" FormaPago="99" NoCertificado="00001000000507181366" Certificado="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" CondicionesDePago="Crédito" SubTotal="94806.86" Descuento="101.32" Moneda="MXN" TipoCambio="1" Total="109858.43" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="27119">
+  <cfdi:Emisor Rfc="TKL8207284W8" Nombre="TRACTOCAMIONES KENWORTH DE LA LAGUNA" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="KES940817F20" Nombre="KENWORTH DEL ESTE" DomicilioFiscalReceptor="94954" RegimenFiscalReceptor="601" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="O-2240" Cantidad="1" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="BANDERAZO DE SALIDA NOCTURNO" ValorUnitario="1500.00" Importe="1500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="240.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="O-2284" Cantidad="1" ClaveUnidad="SET" Unidad="JUEGO" Descripcion="TIEMPO POR DIAGNOSTICO SEGUN ARBOL DE FALLAS" ValorUnitario="3458.85" Importe="3458.85" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3458.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="553.42" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="624" Cantidad="1" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="PRUEBA DE REVISION DE VGT" ValorUnitario="2400.00" Importe="2400.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2400" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="384.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="O-20141" Cantidad="1" ClaveUnidad="E48" Unidad="SERVICIO" Descripcion="REMPLAZO DE TURBO CARGADOR MX-13 R&amp;R" ValorUnitario="3600.00" Importe="3600.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3600" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="576.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101700" NoIdentificacion="2106210PE" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="JUNTA-TURBO CARGADOR" ValorUnitario="469.28" Importe="469.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="469.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101400" NoIdentificacion="2134455PRX" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="TURBOCHARGER, REMAN, SHORT, EPA1" ValorUnitario="77500.00" Importe="77500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="77500" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12400.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="15121800" NoIdentificacion="CC2847FLG" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="ANTICONGELANTE CONCEN BIDON" ValorUnitario="1500.00" Importe="1500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="240.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101700" NoIdentificacion="1982774PE" Cantidad="2" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="O-RING, 25X2" ValorUnitario="115.00" Importe="230.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="230" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="36.80" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101700" NoIdentificacion="2140169PE" Cantidad="1" ClaveUnidad="H87" Unidad="PIEZA" Descripcion="KIT DE MONTAJE DE ACTUADOR MOTOR MX13" ValorUnitario="3857.62" Importe="3857.62" Descuento="101.32" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3756.3" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="601.01" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" NoIdentificacion="001" Cantidad="1" ClaveUnidad="H87" Unidad="No Aplica" Descripcion="CASETAS DE COBRO" ValorUnitario="291.11" Importe="291.11" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="291.11" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.58" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="15152.89">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="94705.54" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15152.89" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="0E7C2E7B-1511-11ED-BBE5-EFA0A64D30FA" FechaTimbrado="2022-08-05T17:50:56" SelloCFD="c3BhLlHB8BXph3rvOp42Fr6Afegfwdkn9zX9FSs5M4lmEeP8aJ9sRASXBG0Fqyqzuk3KUa9PzNxprJhSTt+k0c/HAfSOpz4X6OCuXJ7PeBV7SXBpfjIIQpAt6vLP9fkDCWTpP9pcKaBQcosBvysHAq/GXifBeWyQqfLkMBINybJ+be9R+obdAgxGOLIclwwOvdrNesf8K4/U2VQKhUa4FHl/7U1MJnz/9ZcYp9edy4YQ/0u4pc6BD83ClXV/RzG4ZTK4PM86YHa0v8coBnQobU7juiZBDMmtcytK/f8neiarFcUAqzn2uVPzFJnVxr+FiQj1Qrvc6T/6HljbMf9sMw==" NoCertificadoSAT="00001000000505600468" SelloSAT="JONEE3vGJLHFmn2QhRTde+wbhLsR/9xxwbLXD7FU2AVvb6D0CLGIYnqRECMz7K551aqinP3Nwrpi5me4Vb4uOnTk51d1lk3MC0XsSbLbDVxXoZFW8VPhtN5uFe/T0OvRqfIoIvpWwtePqAZMjigq4yfFDi8k2DJvni2J/HSlwxZWTRolFEBQ3DMokwxidGXpJ1xm1Q15sydG0vAZg75Pj4QGFpOz+HOEf/rofNca0Q2/i0BD/xCgMrolDSRVg7xu9H9O63LP70sH61ef55cbSnlq74Sl4Y4S4mzQ1zr9+pyn6O9VgugzwEE+VfB7jl6RRWRQlTZLESJGNATOqJUqsQ==" RfcProvCertif="EME000602QR9" /></cfdi:Complemento></cfdi:Comprobante>
